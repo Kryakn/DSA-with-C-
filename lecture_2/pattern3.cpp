@@ -4,8 +4,8 @@ int main()
 {
     int n;
     cin>>n;
-for(int i=1;i<=n;i++){// column
-    for ( int j=1;j<=i;j++)//row
+for(int i=1;i<=n;i++){// row
+    for ( int j=1;j<=i;j++)//star
     {
         cout<<"* ";
     }
