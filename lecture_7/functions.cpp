@@ -42,3 +42,9 @@ int main(){
 
     return 0;
 }
+/*
+in function there are two types of calling 
+1.Call by value;
+2.Call by refrence;
+brute force
+*/
