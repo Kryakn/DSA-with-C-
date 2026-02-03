@@ -10,7 +10,6 @@ int main(){
         rev=rev*10+k;
         num=num/10;
         
-
     }
     cout<<rev<<endl;
         return 0;
