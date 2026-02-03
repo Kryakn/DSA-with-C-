@@ -5,7 +5,7 @@ int main(){
     cout<<"Enter your input"<<" ";
     cin>>num;
     int rev=0;
-    for(int i=num;i!=0;i++){
+    for(int i=num;i!=0;i=i/10){
         int k=num%10;
         rev=rev*10+k;
     }
