@@ -10,6 +10,7 @@ vector<int>convert(int n){
     }
     return number;
 }
+//inverse of an number
 int main(){
     int n;
     cin>>n;
