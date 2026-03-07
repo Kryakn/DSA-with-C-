@@ -15,7 +15,7 @@ int main(){
             if (a[j]<a[min]){
                  min=j;
             }
-             swap(a[j],a[j+1]);
+             swap(a[i],a[min]);
         }
     }
     cout<<"Sorted through Selection sort"<<endl;
