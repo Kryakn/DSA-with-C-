@@ -12,7 +12,7 @@
  int main(){
     int n;
      cin>>n;
-     int bn=1;
+     int bn=1;                      
      while(n>0){
         int k=n%2;
         bn=bn*10+k;
